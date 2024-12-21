@@ -1,0 +1,1001 @@
+Lead_ID,Source,Interest_Level,Contacted,Follow_Ups,Program_Offered,Conversion
+1,Website,High,1,2,Biology,0
+2,Event,Medium,1,4,Data Science,0
+3,Social Media,Low,0,1,Data Science,0
+4,Referral,Medium,1,2,Data Science,0
+5,Website,Low,1,2,Mathematics,0
+6,Website,Medium,0,2,Biology,0
+7,Website,Medium,1,2,Mathematics,0
+8,Social Media,Low,0,2,Physics,1
+9,Referral,High,1,4,Data Science,0
+10,Social Media,Medium,1,1,Mathematics,0
+11,Website,High,1,1,Mathematics,0
+12,Event,Low,1,1,Mathematics,1
+13,Social Media,Low,0,2,Data Science,0
+14,Website,High,1,1,Mathematics,0
+15,Website,Medium,1,1,Mathematics,0
+16,Website,Low,1,3,Physics,0
+17,Website,High,1,2,Mathematics,0
+18,Referral,Medium,0,1,Data Science,0
+19,Website,Low,1,1,Mathematics,1
+20,Website,High,1,3,Data Science,0
+21,Referral,Medium,0,0,Physics,0
+22,Website,High,1,2,Mathematics,0
+23,Website,Low,0,3,Data Science,0
+24,Website,Low,1,0,Biology,0
+25,Website,Low,1,3,Mathematics,0
+26,Social Media,Medium,1,2,Data Science,1
+27,Website,Low,0,3,Mathematics,0
+28,Referral,Low,0,2,Data Science,0
+29,Referral,Medium,1,2,Physics,0
+30,Website,Low,1,3,Physics,0
+31,Referral,High,1,2,Biology,0
+32,Website,Medium,1,3,Mathematics,0
+33,Website,High,1,2,Mathematics,0
+34,Event,High,0,0,Physics,0
+35,Event,High,1,1,Data Science,0
+36,Social Media,Medium,1,3,Mathematics,1
+37,Website,Medium,1,2,Mathematics,0
+38,Website,Medium,1,3,Data Science,0
+39,Referral,High,1,1,Mathematics,0
+40,Website,Medium,1,2,Physics,0
+41,Website,Medium,0,0,Physics,0
+42,Website,Medium,1,1,Data Science,0
+43,Website,Medium,1,1,Data Science,0
+44,Event,Medium,1,0,Data Science,0
+45,Website,Low,0,4,Physics,1
+46,Referral,Medium,0,4,Data Science,0
+47,Website,High,1,4,Physics,0
+48,Referral,High,0,3,Data Science,0
+49,Referral,Low,1,1,Mathematics,0
+50,Website,High,1,4,Data Science,0
+51,Event,Low,1,2,Physics,0
+52,Social Media,Medium,1,3,Data Science,0
+53,Event,Low,1,2,Mathematics,0
+54,Social Media,Medium,0,0,Data Science,0
+55,Referral,Low,0,2,Physics,0
+56,Event,Medium,1,2,Physics,0
+57,Website,Medium,1,3,Data Science,0
+58,Website,Medium,1,1,Physics,0
+59,Website,Medium,1,0,Mathematics,0
+60,Website,Medium,1,1,Data Science,0
+61,Website,Low,1,3,Mathematics,0
+62,Website,Low,1,1,Data Science,0
+63,Social Media,Medium,0,1,Physics,0
+64,Website,Medium,1,2,Physics,0
+65,Website,Medium,1,4,Data Science,0
+66,Referral,Medium,0,4,Mathematics,1
+67,Website,High,1,2,Physics,0
+68,Social Media,High,1,2,Biology,0
+69,Website,Medium,1,5,Mathematics,0
+70,Event,High,1,1,Biology,0
+71,Social Media,High,0,2,Mathematics,0
+72,Website,High,1,1,Data Science,0
+73,Website,High,1,3,Physics,0
+74,Social Media,High,0,0,Mathematics,1
+75,Social Media,Low,0,0,Mathematics,0
+76,Social Media,Medium,0,2,Mathematics,0
+77,Social Media,Medium,1,1,Physics,0
+78,Website,Medium,1,1,Physics,0
+79,Website,High,0,2,Mathematics,0
+80,Website,Low,0,1,Data Science,0
+81,Social Media,Medium,1,2,Mathematics,0
+82,Referral,High,1,2,Mathematics,0
+83,Website,Medium,1,3,Data Science,1
+84,Website,Low,0,3,Physics,0
+85,Website,Low,1,1,Mathematics,1
+86,Website,Medium,1,1,Data Science,0
+87,Social Media,Medium,1,1,Data Science,0
+88,Referral,High,1,2,Data Science,0
+89,Social Media,Low,0,2,Biology,0
+90,Website,High,1,1,Data Science,0
+91,Website,Low,0,1,Data Science,0
+92,Social Media,Medium,0,3,Mathematics,1
+93,Social Media,Medium,1,1,Data Science,0
+94,Referral,Medium,1,5,Data Science,0
+95,Social Media,High,1,2,Data Science,0
+96,Website,High,0,3,Mathematics,0
+97,Referral,High,1,0,Mathematics,0
+98,Website,High,1,3,Data Science,0
+99,Website,Medium,0,0,Mathematics,0
+100,Website,Medium,1,4,Biology,0
+101,Website,High,0,1,Data Science,0
+102,Referral,Low,1,2,Data Science,0
+103,Website,Low,1,3,Data Science,0
+104,Referral,Low,1,1,Mathematics,1
+105,Event,Low,0,0,Physics,0
+106,Website,High,1,2,Data Science,0
+107,Website,Medium,0,2,Physics,0
+108,Social Media,Medium,0,2,Data Science,1
+109,Website,Medium,1,0,Mathematics,1
+110,Website,High,0,3,Physics,0
+111,Website,Low,1,5,Data Science,0
+112,Website,High,1,1,Mathematics,1
+113,Event,High,1,2,Data Science,0
+114,Social Media,Medium,0,2,Physics,0
+115,Referral,Medium,1,5,Data Science,0
+116,Social Media,Medium,1,1,Physics,1
+117,Social Media,High,1,2,Data Science,0
+118,Website,Low,1,1,Physics,0
+119,Social Media,High,1,1,Data Science,1
+120,Referral,High,0,2,Physics,0
+121,Social Media,Low,0,0,Data Science,0
+122,Social Media,Low,1,4,Biology,0
+123,Website,Low,0,2,Data Science,0
+124,Website,Low,1,3,Data Science,1
+125,Website,Medium,0,1,Mathematics,1
+126,Website,Medium,1,1,Data Science,0
+127,Social Media,High,1,3,Data Science,0
+128,Social Media,Medium,1,2,Biology,0
+129,Website,Medium,0,2,Biology,0
+130,Referral,High,1,0,Data Science,0
+131,Website,Medium,1,1,Biology,0
+132,Website,Medium,1,2,Mathematics,0
+133,Website,High,1,0,Data Science,0
+134,Website,High,1,4,Physics,0
+135,Event,Medium,0,5,Mathematics,0
+136,Website,High,0,0,Biology,1
+137,Referral,Low,1,0,Data Science,0
+138,Social Media,Medium,0,4,Mathematics,0
+139,Website,Medium,1,0,Data Science,0
+140,Event,Medium,0,1,Data Science,1
+141,Event,Low,0,0,Data Science,0
+142,Website,Medium,1,3,Biology,0
+143,Website,Medium,0,2,Physics,0
+144,Website,Medium,1,3,Physics,0
+145,Website,High,1,4,Mathematics,1
+146,Website,Low,0,4,Data Science,0
+147,Referral,Medium,1,2,Data Science,0
+148,Referral,Medium,1,3,Data Science,0
+149,Website,Low,1,4,Data Science,0
+150,Website,Low,0,3,Physics,0
+151,Event,Medium,1,2,Mathematics,0
+152,Website,Low,1,3,Data Science,0
+153,Website,Medium,0,1,Data Science,0
+154,Website,Medium,0,1,Data Science,0
+155,Event,Medium,1,4,Mathematics,0
+156,Website,Medium,1,0,Biology,0
+157,Referral,High,1,4,Mathematics,0
+158,Social Media,Low,1,2,Physics,1
+159,Website,Low,1,3,Mathematics,0
+160,Social Media,High,0,2,Data Science,1
+161,Website,Low,1,0,Data Science,0
+162,Referral,High,1,1,Physics,0
+163,Referral,Medium,1,4,Physics,0
+164,Referral,Medium,0,3,Data Science,0
+165,Website,High,1,3,Mathematics,0
+166,Social Media,Low,0,5,Mathematics,0
+167,Website,Low,1,1,Mathematics,0
+168,Website,Medium,1,4,Biology,0
+169,Website,High,1,1,Mathematics,0
+170,Referral,High,1,1,Mathematics,1
+171,Referral,Medium,1,1,Data Science,0
+172,Website,Low,1,0,Data Science,0
+173,Referral,Medium,1,1,Data Science,0
+174,Website,High,0,4,Data Science,0
+175,Referral,Medium,1,2,Physics,0
+176,Website,Medium,0,1,Physics,0
+177,Referral,Medium,1,1,Data Science,0
+178,Website,High,1,1,Physics,0
+179,Event,Medium,1,2,Data Science,0
+180,Website,Medium,1,2,Data Science,0
+181,Website,Low,1,0,Data Science,0
+182,Website,Medium,1,2,Data Science,0
+183,Event,Medium,1,1,Data Science,0
+184,Social Media,Low,1,2,Mathematics,1
+185,Website,High,1,2,Mathematics,0
+186,Referral,Low,0,0,Biology,0
+187,Social Media,Medium,0,2,Data Science,0
+188,Referral,High,0,0,Data Science,0
+189,Referral,Medium,0,3,Data Science,0
+190,Website,Medium,1,4,Mathematics,0
+191,Website,High,1,4,Data Science,0
+192,Social Media,Medium,0,3,Physics,0
+193,Event,Medium,1,3,Mathematics,1
+194,Referral,Medium,1,2,Mathematics,0
+195,Website,High,1,0,Mathematics,0
+196,Website,Low,1,2,Data Science,0
+197,Social Media,Low,1,3,Data Science,0
+198,Social Media,Low,0,1,Data Science,0
+199,Social Media,Medium,1,2,Mathematics,0
+200,Social Media,High,1,1,Data Science,0
+201,Referral,Medium,0,1,Data Science,0
+202,Website,High,1,2,Biology,0
+203,Website,High,1,3,Data Science,0
+204,Social Media,Medium,1,2,Physics,0
+205,Referral,Medium,0,0,Physics,0
+206,Website,Medium,0,3,Data Science,0
+207,Website,Medium,1,2,Data Science,0
+208,Referral,Medium,0,2,Data Science,0
+209,Website,High,1,0,Mathematics,0
+210,Website,Low,0,4,Mathematics,0
+211,Referral,Medium,0,2,Physics,0
+212,Referral,Medium,0,2,Biology,0
+213,Referral,High,1,1,Mathematics,0
+214,Website,Medium,0,2,Data Science,0
+215,Social Media,Medium,0,2,Data Science,1
+216,Website,High,1,2,Physics,0
+217,Website,High,0,4,Data Science,0
+218,Social Media,Medium,1,0,Data Science,0
+219,Referral,Medium,0,1,Physics,0
+220,Social Media,High,1,4,Mathematics,1
+221,Referral,Low,0,0,Biology,0
+222,Referral,High,1,0,Mathematics,1
+223,Website,Medium,1,3,Data Science,0
+224,Website,Low,1,0,Biology,0
+225,Website,Medium,1,1,Data Science,0
+226,Website,Medium,1,0,Data Science,0
+227,Event,Medium,1,1,Mathematics,0
+228,Website,High,1,2,Data Science,0
+229,Social Media,Low,1,2,Mathematics,0
+230,Referral,Medium,1,1,Data Science,0
+231,Social Media,Low,0,2,Mathematics,0
+232,Referral,High,1,3,Data Science,0
+233,Referral,High,0,0,Physics,1
+234,Website,High,0,3,Physics,0
+235,Website,Medium,1,1,Data Science,0
+236,Social Media,Medium,1,4,Data Science,0
+237,Website,Low,0,5,Data Science,0
+238,Website,Medium,1,1,Data Science,0
+239,Referral,Low,1,1,Physics,0
+240,Website,High,1,4,Physics,0
+241,Event,Low,0,1,Data Science,1
+242,Event,Medium,1,1,Data Science,0
+243,Event,Medium,1,3,Data Science,0
+244,Website,Low,0,2,Mathematics,0
+245,Website,Medium,0,0,Data Science,0
+246,Event,Medium,1,1,Biology,1
+247,Website,High,1,2,Physics,0
+248,Event,High,0,1,Data Science,0
+249,Event,Low,1,4,Mathematics,1
+250,Social Media,Medium,1,3,Biology,0
+251,Website,Medium,1,0,Mathematics,1
+252,Website,Medium,0,2,Data Science,0
+253,Social Media,High,1,4,Data Science,0
+254,Website,High,0,2,Physics,0
+255,Website,Medium,0,1,Mathematics,0
+256,Referral,Medium,1,2,Mathematics,0
+257,Event,High,1,2,Physics,0
+258,Referral,Medium,1,2,Physics,0
+259,Referral,High,1,1,Biology,0
+260,Website,Medium,1,0,Data Science,0
+261,Referral,High,0,3,Mathematics,1
+262,Event,Medium,1,4,Physics,0
+263,Website,Medium,0,1,Physics,0
+264,Referral,Medium,1,2,Mathematics,1
+265,Social Media,High,1,2,Data Science,0
+266,Social Media,High,1,2,Physics,0
+267,Referral,Medium,1,2,Physics,0
+268,Social Media,Medium,0,2,Data Science,0
+269,Website,Medium,1,1,Mathematics,0
+270,Website,High,1,4,Data Science,0
+271,Social Media,Medium,1,3,Data Science,0
+272,Social Media,Low,1,0,Data Science,0
+273,Social Media,Medium,1,2,Mathematics,0
+274,Event,High,1,2,Mathematics,0
+275,Referral,Medium,0,3,Mathematics,1
+276,Referral,High,1,1,Mathematics,1
+277,Social Media,High,0,2,Physics,0
+278,Referral,Low,1,0,Data Science,0
+279,Social Media,High,1,3,Data Science,0
+280,Social Media,Medium,1,3,Physics,0
+281,Social Media,Medium,1,2,Data Science,0
+282,Website,Medium,1,0,Biology,1
+283,Website,Medium,1,3,Physics,0
+284,Website,High,1,2,Mathematics,1
+285,Referral,Medium,1,4,Biology,0
+286,Website,Medium,1,1,Data Science,0
+287,Website,High,0,3,Data Science,0
+288,Referral,Medium,1,2,Mathematics,0
+289,Website,High,1,4,Data Science,0
+290,Referral,High,1,0,Biology,0
+291,Website,Medium,1,2,Data Science,0
+292,Website,High,1,1,Mathematics,1
+293,Social Media,Medium,1,1,Mathematics,0
+294,Website,Medium,1,1,Mathematics,0
+295,Website,Low,1,0,Data Science,0
+296,Referral,High,1,1,Data Science,1
+297,Social Media,High,1,2,Physics,0
+298,Website,High,1,3,Data Science,0
+299,Referral,Medium,1,4,Physics,0
+300,Website,Medium,1,3,Mathematics,1
+301,Website,High,0,2,Physics,1
+302,Referral,Low,1,4,Physics,0
+303,Referral,High,1,3,Data Science,0
+304,Referral,Medium,1,2,Mathematics,0
+305,Social Media,Medium,0,1,Physics,0
+306,Event,Low,1,1,Mathematics,0
+307,Referral,Medium,1,4,Biology,0
+308,Website,Low,1,4,Mathematics,0
+309,Social Media,Medium,1,1,Data Science,0
+310,Website,Low,1,3,Data Science,1
+311,Website,High,1,2,Biology,1
+312,Website,Low,0,1,Data Science,0
+313,Website,Medium,1,2,Physics,0
+314,Event,Low,0,1,Physics,0
+315,Social Media,Medium,0,2,Data Science,0
+316,Referral,Medium,1,1,Data Science,0
+317,Website,Medium,1,0,Physics,0
+318,Website,Medium,1,2,Data Science,0
+319,Website,High,1,1,Physics,1
+320,Website,High,1,2,Mathematics,0
+321,Referral,High,0,3,Mathematics,0
+322,Social Media,High,0,0,Physics,0
+323,Referral,Low,1,0,Data Science,1
+324,Website,High,1,2,Mathematics,0
+325,Event,Low,0,1,Data Science,0
+326,Social Media,Medium,0,2,Data Science,0
+327,Referral,High,0,3,Mathematics,0
+328,Referral,Medium,1,2,Physics,1
+329,Website,Medium,1,3,Data Science,0
+330,Website,Medium,1,3,Mathematics,0
+331,Website,Medium,1,3,Mathematics,0
+332,Social Media,Medium,1,2,Data Science,0
+333,Website,High,1,0,Data Science,1
+334,Website,Low,1,2,Biology,0
+335,Website,Low,1,2,Physics,1
+336,Website,Medium,1,2,Mathematics,0
+337,Social Media,High,1,3,Mathematics,0
+338,Social Media,Medium,1,1,Data Science,0
+339,Website,High,1,2,Mathematics,0
+340,Website,High,1,0,Mathematics,0
+341,Website,High,0,0,Mathematics,0
+342,Website,Medium,1,2,Data Science,0
+343,Website,Low,1,3,Data Science,1
+344,Website,Medium,1,1,Data Science,0
+345,Website,Medium,0,1,Biology,0
+346,Referral,Medium,1,4,Mathematics,0
+347,Referral,Medium,1,1,Mathematics,0
+348,Website,Medium,1,2,Data Science,0
+349,Website,Low,1,0,Data Science,0
+350,Referral,High,1,4,Physics,0
+351,Referral,Low,1,3,Mathematics,0
+352,Social Media,Medium,0,2,Mathematics,0
+353,Referral,Medium,1,2,Data Science,0
+354,Website,Medium,0,3,Physics,0
+355,Website,Medium,0,3,Data Science,1
+356,Referral,Low,1,1,Data Science,0
+357,Website,Low,0,3,Mathematics,0
+358,Referral,Medium,1,3,Data Science,0
+359,Event,High,1,0,Data Science,0
+360,Referral,Medium,1,4,Mathematics,0
+361,Website,Low,1,4,Mathematics,0
+362,Referral,High,1,2,Physics,0
+363,Website,Medium,1,2,Mathematics,0
+364,Referral,Medium,1,2,Data Science,0
+365,Event,Medium,1,0,Data Science,0
+366,Website,High,1,2,Biology,0
+367,Event,Medium,1,2,Mathematics,0
+368,Event,Low,1,3,Physics,0
+369,Website,High,1,0,Data Science,0
+370,Website,High,0,1,Mathematics,1
+371,Website,Low,1,3,Data Science,0
+372,Website,High,0,3,Mathematics,0
+373,Website,Low,1,4,Biology,0
+374,Referral,Medium,1,0,Biology,0
+375,Website,High,1,3,Mathematics,0
+376,Website,Low,1,1,Mathematics,0
+377,Social Media,Medium,1,2,Biology,0
+378,Website,Medium,0,5,Mathematics,0
+379,Social Media,Medium,1,0,Data Science,0
+380,Website,Medium,0,1,Mathematics,0
+381,Website,High,0,3,Data Science,0
+382,Referral,Medium,0,3,Mathematics,0
+383,Referral,Low,0,1,Mathematics,0
+384,Social Media,High,1,0,Mathematics,0
+385,Social Media,Medium,1,3,Data Science,0
+386,Social Media,Medium,1,3,Data Science,0
+387,Website,Medium,1,0,Mathematics,0
+388,Website,High,1,2,Physics,0
+389,Social Media,Low,0,0,Mathematics,0
+390,Social Media,Medium,1,4,Data Science,0
+391,Event,High,1,0,Biology,1
+392,Website,High,1,2,Biology,0
+393,Website,High,1,1,Data Science,1
+394,Social Media,Medium,1,0,Data Science,1
+395,Website,Medium,0,1,Physics,0
+396,Event,Low,1,2,Physics,0
+397,Social Media,Medium,1,5,Biology,0
+398,Website,High,1,1,Physics,1
+399,Social Media,Medium,1,3,Mathematics,0
+400,Social Media,Medium,1,1,Mathematics,0
+401,Website,High,1,4,Data Science,0
+402,Event,High,1,2,Data Science,0
+403,Referral,High,1,0,Mathematics,0
+404,Social Media,Medium,1,1,Mathematics,0
+405,Website,Medium,1,2,Mathematics,1
+406,Social Media,Medium,1,0,Physics,0
+407,Website,Low,1,1,Data Science,0
+408,Website,Low,1,3,Mathematics,0
+409,Event,Medium,0,0,Data Science,0
+410,Website,Low,1,0,Mathematics,1
+411,Website,High,1,2,Physics,0
+412,Event,High,1,2,Mathematics,0
+413,Event,High,1,2,Biology,0
+414,Referral,High,1,4,Data Science,1
+415,Referral,Medium,1,3,Mathematics,0
+416,Website,Low,0,1,Data Science,0
+417,Website,High,1,3,Mathematics,0
+418,Website,High,1,1,Physics,0
+419,Referral,Medium,1,3,Mathematics,1
+420,Social Media,Low,1,3,Physics,0
+421,Social Media,Medium,1,2,Data Science,0
+422,Social Media,Medium,1,3,Physics,0
+423,Website,High,0,2,Data Science,0
+424,Website,High,1,3,Physics,0
+425,Website,Low,1,1,Data Science,0
+426,Referral,Low,0,3,Data Science,0
+427,Website,High,1,2,Mathematics,0
+428,Social Media,Low,0,4,Biology,0
+429,Website,Medium,1,3,Data Science,0
+430,Website,Low,0,1,Data Science,0
+431,Website,Medium,1,1,Physics,0
+432,Social Media,Medium,0,2,Data Science,0
+433,Referral,Medium,0,4,Data Science,0
+434,Website,Medium,1,2,Mathematics,0
+435,Website,High,0,3,Data Science,0
+436,Social Media,High,1,1,Biology,0
+437,Website,Medium,1,2,Physics,1
+438,Social Media,Medium,1,4,Mathematics,0
+439,Social Media,High,1,4,Biology,0
+440,Website,Medium,1,1,Mathematics,0
+441,Website,Low,1,3,Data Science,0
+442,Event,High,1,0,Data Science,0
+443,Website,Medium,0,2,Mathematics,0
+444,Website,Medium,0,5,Data Science,0
+445,Social Media,Low,1,1,Biology,1
+446,Event,High,1,2,Physics,0
+447,Event,Medium,1,2,Data Science,0
+448,Social Media,Low,1,0,Mathematics,0
+449,Website,Low,1,3,Physics,0
+450,Website,Medium,1,1,Biology,0
+451,Social Media,Medium,1,4,Physics,0
+452,Referral,Medium,0,4,Mathematics,0
+453,Website,Low,1,3,Physics,1
+454,Event,Medium,1,2,Mathematics,0
+455,Website,High,1,0,Mathematics,0
+456,Website,Low,1,3,Data Science,0
+457,Website,Medium,1,1,Data Science,0
+458,Website,Medium,1,1,Mathematics,1
+459,Website,High,1,1,Data Science,0
+460,Website,Medium,1,1,Data Science,1
+461,Website,Medium,0,2,Physics,1
+462,Referral,Medium,0,2,Data Science,0
+463,Social Media,High,1,1,Mathematics,0
+464,Referral,Medium,1,0,Mathematics,0
+465,Event,Low,1,5,Biology,0
+466,Website,High,1,0,Mathematics,0
+467,Website,Low,1,0,Data Science,0
+468,Social Media,Medium,1,1,Mathematics,1
+469,Website,Low,1,1,Physics,0
+470,Event,Medium,1,3,Biology,0
+471,Website,Medium,1,1,Mathematics,0
+472,Event,Medium,0,0,Data Science,0
+473,Website,Low,0,1,Biology,0
+474,Social Media,Medium,0,4,Data Science,0
+475,Referral,Medium,1,2,Mathematics,0
+476,Event,Medium,0,0,Mathematics,0
+477,Website,Low,1,3,Data Science,0
+478,Referral,Medium,0,1,Data Science,0
+479,Event,Medium,1,1,Data Science,0
+480,Referral,Medium,0,0,Mathematics,0
+481,Referral,Low,1,3,Biology,0
+482,Referral,High,0,1,Data Science,0
+483,Website,Medium,0,0,Physics,0
+484,Referral,High,1,2,Data Science,0
+485,Referral,Medium,1,3,Mathematics,0
+486,Event,Medium,0,1,Data Science,0
+487,Website,Medium,1,5,Biology,0
+488,Website,Medium,0,3,Physics,0
+489,Event,Medium,1,3,Mathematics,0
+490,Social Media,Medium,1,4,Physics,1
+491,Website,High,1,1,Mathematics,0
+492,Referral,Medium,1,2,Biology,0
+493,Website,High,0,2,Physics,0
+494,Website,High,1,2,Biology,0
+495,Website,Medium,1,2,Mathematics,0
+496,Website,Medium,1,3,Data Science,1
+497,Referral,Medium,1,3,Mathematics,0
+498,Website,Medium,0,2,Data Science,0
+499,Event,Medium,0,3,Mathematics,0
+500,Event,Low,1,1,Mathematics,1
+501,Referral,Medium,0,3,Mathematics,0
+502,Referral,Medium,0,4,Data Science,0
+503,Website,High,1,0,Data Science,0
+504,Social Media,Medium,0,1,Mathematics,0
+505,Referral,Medium,1,2,Biology,0
+506,Website,Medium,1,0,Data Science,0
+507,Event,Medium,0,2,Mathematics,0
+508,Social Media,Medium,1,0,Physics,0
+509,Event,Medium,0,2,Mathematics,1
+510,Social Media,Medium,0,1,Data Science,0
+511,Referral,Low,1,3,Mathematics,0
+512,Website,Medium,0,2,Data Science,0
+513,Event,Low,1,5,Biology,0
+514,Social Media,High,1,3,Data Science,1
+515,Website,High,1,1,Data Science,1
+516,Website,High,0,1,Data Science,0
+517,Website,Medium,1,3,Data Science,0
+518,Social Media,Low,1,0,Physics,0
+519,Event,High,1,0,Data Science,0
+520,Website,Low,0,1,Data Science,0
+521,Referral,High,1,1,Mathematics,1
+522,Website,Low,1,2,Data Science,1
+523,Event,Medium,1,4,Data Science,0
+524,Social Media,High,1,2,Physics,0
+525,Social Media,Medium,0,5,Physics,0
+526,Website,High,1,1,Biology,0
+527,Website,High,1,2,Physics,0
+528,Website,Medium,0,1,Mathematics,0
+529,Website,Low,1,3,Data Science,0
+530,Social Media,Medium,0,3,Physics,0
+531,Social Media,Medium,1,2,Physics,1
+532,Event,Medium,0,4,Physics,1
+533,Event,Medium,1,2,Mathematics,0
+534,Referral,High,1,3,Data Science,0
+535,Social Media,Medium,0,2,Physics,0
+536,Event,High,0,2,Physics,0
+537,Social Media,High,0,1,Biology,0
+538,Website,Medium,1,3,Data Science,1
+539,Website,High,0,3,Data Science,0
+540,Website,Medium,0,2,Data Science,0
+541,Event,Medium,1,0,Physics,0
+542,Referral,High,0,1,Data Science,0
+543,Website,Medium,0,1,Data Science,0
+544,Referral,High,1,4,Biology,0
+545,Referral,Low,1,1,Data Science,0
+546,Website,Medium,1,3,Physics,0
+547,Website,Low,1,2,Data Science,0
+548,Referral,Medium,1,3,Physics,0
+549,Referral,High,1,4,Mathematics,1
+550,Social Media,Medium,1,3,Biology,1
+551,Referral,Low,1,3,Biology,0
+552,Social Media,Medium,1,2,Data Science,0
+553,Referral,Low,0,3,Data Science,0
+554,Referral,Low,0,2,Data Science,0
+555,Social Media,High,1,2,Mathematics,0
+556,Website,High,0,5,Physics,0
+557,Website,Medium,1,4,Mathematics,0
+558,Website,Medium,1,1,Mathematics,0
+559,Social Media,Low,1,2,Data Science,0
+560,Referral,Low,1,3,Physics,1
+561,Social Media,Medium,0,2,Biology,0
+562,Website,High,0,2,Data Science,0
+563,Website,Medium,1,0,Mathematics,0
+564,Website,High,1,3,Data Science,1
+565,Website,Low,1,2,Mathematics,0
+566,Referral,Medium,1,3,Mathematics,0
+567,Website,Medium,1,2,Data Science,0
+568,Website,High,1,3,Mathematics,0
+569,Event,Medium,0,2,Data Science,0
+570,Website,Medium,0,2,Mathematics,0
+571,Referral,Medium,1,2,Mathematics,0
+572,Social Media,High,0,3,Data Science,0
+573,Website,Medium,1,2,Physics,0
+574,Referral,Low,1,1,Physics,0
+575,Social Media,High,1,1,Data Science,0
+576,Event,High,1,3,Data Science,0
+577,Website,High,0,0,Physics,0
+578,Event,Medium,1,0,Biology,0
+579,Website,Medium,1,3,Data Science,0
+580,Website,Medium,1,2,Data Science,0
+581,Website,High,1,2,Data Science,1
+582,Event,Medium,0,0,Mathematics,0
+583,Website,Medium,1,2,Data Science,0
+584,Website,Medium,1,1,Data Science,0
+585,Referral,Low,1,2,Mathematics,0
+586,Website,High,1,3,Mathematics,1
+587,Website,Medium,1,1,Data Science,0
+588,Website,Medium,1,4,Mathematics,1
+589,Website,Medium,1,1,Mathematics,0
+590,Website,Medium,0,2,Data Science,0
+591,Website,Medium,0,2,Data Science,1
+592,Referral,Low,0,1,Physics,0
+593,Website,High,1,3,Data Science,1
+594,Website,High,1,1,Physics,0
+595,Social Media,Medium,1,1,Biology,0
+596,Website,Medium,0,1,Data Science,0
+597,Referral,High,1,1,Data Science,0
+598,Website,High,1,4,Mathematics,0
+599,Website,High,1,0,Physics,0
+600,Website,Low,1,1,Biology,0
+601,Website,High,1,1,Physics,1
+602,Website,Medium,1,1,Data Science,1
+603,Website,High,0,1,Mathematics,0
+604,Website,Medium,1,1,Mathematics,0
+605,Website,High,1,0,Mathematics,0
+606,Website,Medium,1,3,Data Science,0
+607,Website,High,1,0,Data Science,0
+608,Website,Low,1,3,Physics,1
+609,Referral,High,0,1,Mathematics,0
+610,Referral,Medium,1,5,Data Science,0
+611,Website,Low,0,1,Data Science,0
+612,Social Media,Medium,1,2,Physics,0
+613,Referral,Medium,1,1,Physics,1
+614,Website,Medium,0,1,Data Science,0
+615,Social Media,Medium,1,4,Data Science,0
+616,Event,Medium,1,1,Data Science,1
+617,Website,Low,1,2,Biology,0
+618,Website,Medium,1,3,Mathematics,0
+619,Social Media,Medium,0,0,Mathematics,0
+620,Social Media,Medium,1,1,Mathematics,0
+621,Website,Medium,0,1,Data Science,0
+622,Website,High,0,1,Physics,0
+623,Website,Medium,1,3,Mathematics,0
+624,Website,Low,0,1,Data Science,0
+625,Referral,High,1,2,Data Science,0
+626,Website,Medium,0,3,Mathematics,0
+627,Website,High,1,1,Biology,0
+628,Social Media,Medium,1,2,Data Science,0
+629,Website,High,1,3,Physics,0
+630,Website,Medium,1,1,Physics,0
+631,Social Media,Medium,1,2,Data Science,0
+632,Social Media,Medium,0,3,Data Science,0
+633,Referral,Medium,1,2,Data Science,0
+634,Referral,Medium,1,0,Physics,0
+635,Website,Low,0,3,Data Science,0
+636,Website,High,1,2,Data Science,0
+637,Referral,Medium,0,2,Mathematics,0
+638,Website,High,0,0,Physics,0
+639,Website,Low,0,1,Data Science,0
+640,Website,Low,0,0,Mathematics,0
+641,Website,Medium,1,1,Mathematics,0
+642,Website,Low,1,1,Mathematics,0
+643,Website,Medium,0,2,Physics,0
+644,Website,Medium,1,3,Data Science,0
+645,Website,High,1,3,Physics,0
+646,Social Media,Medium,1,2,Mathematics,0
+647,Referral,High,0,2,Mathematics,0
+648,Referral,Low,1,4,Mathematics,0
+649,Social Media,Medium,1,1,Mathematics,0
+650,Website,Medium,1,3,Data Science,0
+651,Website,High,1,3,Mathematics,0
+652,Referral,Medium,1,4,Mathematics,0
+653,Referral,High,1,2,Mathematics,0
+654,Social Media,Medium,1,4,Data Science,1
+655,Website,High,0,3,Biology,0
+656,Website,Low,1,2,Mathematics,0
+657,Website,Medium,0,3,Data Science,1
+658,Website,Medium,0,2,Mathematics,1
+659,Referral,Medium,1,2,Physics,0
+660,Referral,Medium,1,4,Physics,0
+661,Website,Medium,1,4,Mathematics,0
+662,Event,Medium,0,1,Physics,0
+663,Referral,Low,1,1,Data Science,0
+664,Website,Medium,1,0,Mathematics,0
+665,Website,Low,1,3,Physics,0
+666,Website,Low,1,1,Physics,0
+667,Website,High,1,4,Mathematics,0
+668,Website,Low,1,1,Physics,0
+669,Website,High,0,1,Data Science,1
+670,Website,Low,1,3,Physics,1
+671,Website,Medium,1,3,Data Science,1
+672,Social Media,Low,1,0,Data Science,0
+673,Website,Low,0,2,Data Science,0
+674,Referral,Low,1,1,Mathematics,0
+675,Website,Medium,0,3,Data Science,0
+676,Event,Medium,1,1,Data Science,0
+677,Website,High,1,3,Data Science,0
+678,Website,Medium,1,4,Data Science,0
+679,Event,High,1,0,Mathematics,1
+680,Social Media,Medium,1,1,Mathematics,0
+681,Social Media,Medium,1,2,Data Science,0
+682,Website,Low,0,1,Physics,0
+683,Website,Medium,1,5,Physics,0
+684,Referral,Low,1,1,Physics,0
+685,Event,High,1,3,Data Science,0
+686,Referral,Low,1,2,Physics,0
+687,Referral,Low,1,2,Data Science,0
+688,Website,Medium,1,0,Data Science,0
+689,Social Media,Medium,1,2,Data Science,0
+690,Website,Medium,1,2,Physics,0
+691,Website,High,1,4,Data Science,0
+692,Website,Medium,1,0,Data Science,0
+693,Referral,Medium,1,3,Data Science,0
+694,Website,High,1,3,Physics,0
+695,Website,Medium,0,3,Mathematics,0
+696,Referral,High,1,2,Data Science,0
+697,Website,High,1,0,Mathematics,1
+698,Referral,High,1,2,Mathematics,1
+699,Website,Low,0,2,Mathematics,0
+700,Website,Medium,0,1,Data Science,0
+701,Referral,Low,1,0,Physics,0
+702,Website,Medium,0,0,Data Science,0
+703,Website,Medium,1,1,Mathematics,1
+704,Website,Medium,1,0,Data Science,0
+705,Website,Medium,0,2,Data Science,0
+706,Event,High,0,1,Data Science,0
+707,Website,Medium,1,3,Mathematics,0
+708,Social Media,High,1,1,Data Science,0
+709,Website,Medium,1,1,Physics,1
+710,Referral,Medium,1,5,Data Science,0
+711,Social Media,High,0,3,Mathematics,0
+712,Referral,High,1,1,Physics,0
+713,Website,Medium,1,1,Mathematics,0
+714,Website,Medium,1,4,Physics,0
+715,Website,High,1,3,Mathematics,0
+716,Event,Low,1,0,Data Science,0
+717,Social Media,High,1,0,Physics,0
+718,Event,Medium,0,3,Data Science,0
+719,Website,Low,0,3,Mathematics,0
+720,Social Media,High,1,4,Physics,0
+721,Event,High,0,2,Data Science,0
+722,Website,High,0,1,Data Science,0
+723,Website,Medium,0,4,Mathematics,1
+724,Social Media,High,1,2,Physics,1
+725,Referral,Medium,1,1,Biology,0
+726,Social Media,High,1,2,Mathematics,0
+727,Website,Medium,1,2,Mathematics,0
+728,Social Media,Low,1,2,Biology,0
+729,Website,Low,1,1,Data Science,1
+730,Website,Medium,1,0,Data Science,0
+731,Website,Medium,0,3,Physics,0
+732,Social Media,Medium,1,4,Physics,0
+733,Referral,Medium,1,4,Physics,1
+734,Referral,Medium,0,4,Mathematics,0
+735,Website,High,0,2,Data Science,0
+736,Social Media,Low,0,1,Mathematics,0
+737,Website,Medium,0,4,Data Science,0
+738,Social Media,High,1,2,Data Science,0
+739,Website,Medium,0,3,Physics,0
+740,Website,Medium,1,2,Data Science,0
+741,Website,Low,1,3,Physics,1
+742,Website,Medium,1,0,Mathematics,0
+743,Social Media,Medium,1,2,Mathematics,0
+744,Referral,High,1,2,Data Science,1
+745,Website,Medium,1,2,Data Science,1
+746,Social Media,Medium,0,3,Data Science,0
+747,Website,High,1,2,Biology,0
+748,Referral,High,1,2,Physics,0
+749,Event,Medium,0,3,Mathematics,0
+750,Referral,High,1,5,Data Science,1
+751,Website,Medium,1,3,Biology,1
+752,Event,High,1,0,Data Science,0
+753,Referral,High,1,2,Data Science,1
+754,Website,High,1,3,Mathematics,0
+755,Website,Low,0,2,Biology,0
+756,Social Media,Low,1,3,Data Science,0
+757,Referral,Low,1,2,Data Science,0
+758,Referral,Medium,0,0,Biology,1
+759,Social Media,High,0,2,Data Science,0
+760,Social Media,Medium,1,1,Data Science,0
+761,Website,Medium,1,2,Mathematics,0
+762,Website,Low,1,2,Physics,0
+763,Website,High,1,4,Mathematics,0
+764,Social Media,Medium,1,0,Biology,0
+765,Website,High,1,2,Mathematics,0
+766,Referral,Medium,0,0,Data Science,0
+767,Social Media,Medium,1,0,Biology,0
+768,Social Media,Medium,1,1,Mathematics,0
+769,Website,Medium,1,2,Data Science,0
+770,Social Media,Medium,1,0,Mathematics,0
+771,Website,Medium,1,1,Data Science,1
+772,Social Media,Medium,1,4,Data Science,0
+773,Website,Low,0,3,Data Science,0
+774,Website,Low,1,4,Mathematics,0
+775,Social Media,Medium,1,2,Physics,0
+776,Website,Medium,1,2,Mathematics,0
+777,Website,Medium,1,2,Biology,0
+778,Social Media,Medium,1,1,Data Science,0
+779,Social Media,High,1,1,Data Science,0
+780,Referral,Low,1,1,Data Science,1
+781,Referral,High,1,1,Data Science,0
+782,Referral,Low,0,3,Data Science,0
+783,Website,Medium,0,2,Physics,0
+784,Website,Medium,0,2,Biology,0
+785,Website,Medium,0,2,Biology,0
+786,Event,Low,1,0,Data Science,0
+787,Referral,Medium,0,1,Physics,1
+788,Website,Medium,1,4,Data Science,0
+789,Website,High,0,2,Data Science,0
+790,Event,Medium,0,4,Physics,0
+791,Website,High,0,4,Mathematics,0
+792,Referral,Medium,0,2,Data Science,0
+793,Referral,Medium,1,1,Mathematics,0
+794,Referral,Medium,1,3,Data Science,1
+795,Website,High,1,3,Physics,0
+796,Social Media,High,1,1,Mathematics,0
+797,Event,Medium,1,1,Biology,0
+798,Referral,High,1,4,Data Science,0
+799,Referral,High,0,1,Data Science,0
+800,Event,High,1,4,Mathematics,1
+801,Social Media,Low,0,0,Mathematics,0
+802,Website,Medium,0,3,Data Science,1
+803,Referral,Medium,0,3,Physics,0
+804,Referral,High,0,3,Physics,0
+805,Website,Medium,1,2,Biology,0
+806,Social Media,Medium,0,1,Physics,0
+807,Event,Medium,0,0,Physics,1
+808,Event,High,1,2,Mathematics,0
+809,Website,High,1,2,Physics,0
+810,Website,High,0,2,Data Science,0
+811,Event,Medium,1,3,Data Science,0
+812,Social Media,Medium,1,3,Data Science,0
+813,Website,High,1,1,Mathematics,0
+814,Event,High,1,2,Data Science,1
+815,Social Media,High,1,1,Biology,0
+816,Referral,Low,0,2,Data Science,0
+817,Referral,High,1,0,Data Science,0
+818,Website,Medium,1,1,Mathematics,0
+819,Website,Medium,1,1,Data Science,1
+820,Website,Medium,1,2,Data Science,1
+821,Social Media,High,0,1,Data Science,0
+822,Website,High,1,1,Mathematics,0
+823,Website,Medium,1,2,Mathematics,1
+824,Website,Medium,1,4,Physics,1
+825,Referral,Medium,1,0,Physics,0
+826,Event,Medium,0,1,Mathematics,0
+827,Website,High,0,4,Data Science,0
+828,Website,Low,1,2,Data Science,1
+829,Social Media,Medium,1,1,Physics,0
+830,Website,High,1,1,Data Science,1
+831,Website,Low,1,3,Data Science,1
+832,Website,Medium,1,1,Physics,0
+833,Website,Medium,1,3,Mathematics,0
+834,Website,Medium,1,3,Data Science,0
+835,Website,Low,1,2,Data Science,0
+836,Website,Medium,0,2,Biology,0
+837,Event,High,0,4,Physics,0
+838,Website,Medium,1,1,Physics,0
+839,Referral,Low,0,1,Mathematics,0
+840,Referral,High,1,2,Mathematics,0
+841,Website,Medium,1,1,Biology,0
+842,Referral,Medium,0,3,Biology,0
+843,Website,Medium,0,3,Data Science,0
+844,Event,Medium,0,4,Physics,0
+845,Website,Low,1,1,Data Science,0
+846,Website,High,1,1,Data Science,0
+847,Website,High,0,1,Mathematics,0
+848,Event,High,1,1,Mathematics,1
+849,Referral,Low,1,2,Biology,0
+850,Referral,Medium,1,0,Data Science,0
+851,Website,High,1,1,Mathematics,0
+852,Social Media,Low,1,2,Biology,0
+853,Website,Low,1,4,Biology,0
+854,Social Media,Low,0,0,Data Science,0
+855,Website,Low,1,0,Data Science,0
+856,Website,High,1,1,Mathematics,0
+857,Website,Medium,1,1,Data Science,0
+858,Website,Medium,1,4,Biology,0
+859,Referral,Low,1,2,Biology,0
+860,Website,Medium,1,2,Data Science,0
+861,Social Media,Medium,0,2,Data Science,1
+862,Website,Medium,1,5,Data Science,0
+863,Referral,High,0,3,Biology,0
+864,Website,Medium,1,4,Data Science,0
+865,Website,Low,1,3,Mathematics,0
+866,Referral,Low,1,0,Mathematics,0
+867,Website,High,1,3,Mathematics,1
+868,Website,High,0,2,Data Science,1
+869,Social Media,High,1,3,Data Science,0
+870,Event,Medium,1,3,Biology,0
+871,Website,Low,0,1,Biology,0
+872,Website,High,0,1,Physics,0
+873,Referral,Medium,0,4,Data Science,0
+874,Website,Low,1,0,Data Science,0
+875,Website,Medium,0,2,Mathematics,0
+876,Website,Medium,1,3,Data Science,0
+877,Social Media,Medium,1,1,Biology,1
+878,Referral,Medium,1,0,Mathematics,0
+879,Website,High,1,3,Data Science,1
+880,Website,Medium,1,2,Biology,0
+881,Website,Medium,1,1,Biology,1
+882,Referral,Low,0,2,Data Science,0
+883,Website,Medium,1,1,Mathematics,0
+884,Website,Medium,1,0,Data Science,0
+885,Social Media,High,1,2,Data Science,0
+886,Website,Medium,0,0,Data Science,0
+887,Referral,High,1,3,Mathematics,0
+888,Website,High,1,2,Biology,1
+889,Website,Medium,0,4,Mathematics,0
+890,Website,Low,0,1,Data Science,1
+891,Social Media,High,1,0,Mathematics,0
+892,Social Media,Medium,1,0,Data Science,0
+893,Social Media,Low,0,4,Physics,0
+894,Website,High,1,0,Mathematics,0
+895,Referral,Medium,1,5,Data Science,0
+896,Website,Medium,0,0,Data Science,0
+897,Website,Medium,1,3,Physics,0
+898,Social Media,High,1,2,Data Science,1
+899,Website,Medium,1,1,Physics,1
+900,Website,Medium,1,1,Data Science,0
+901,Website,Medium,1,1,Data Science,0
+902,Website,High,0,2,Mathematics,0
+903,Website,Medium,1,3,Biology,1
+904,Referral,High,1,2,Biology,0
+905,Website,Medium,1,3,Data Science,0
+906,Social Media,High,1,3,Data Science,0
+907,Social Media,Low,0,1,Data Science,0
+908,Website,Medium,1,2,Mathematics,0
+909,Website,Medium,1,2,Mathematics,0
+910,Website,High,1,2,Biology,0
+911,Referral,Medium,1,4,Biology,0
+912,Website,Low,1,1,Data Science,0
+913,Referral,Low,0,0,Mathematics,0
+914,Website,Medium,0,1,Physics,0
+915,Referral,Medium,1,2,Physics,0
+916,Website,Medium,1,0,Data Science,0
+917,Website,Low,0,1,Data Science,0
+918,Event,Medium,0,0,Mathematics,0
+919,Social Media,Medium,1,2,Data Science,0
+920,Website,Medium,1,2,Data Science,0
+921,Social Media,Medium,1,3,Data Science,0
+922,Website,High,0,0,Mathematics,0
+923,Social Media,Medium,0,4,Data Science,1
+924,Social Media,Medium,1,4,Data Science,0
+925,Website,Medium,1,1,Data Science,1
+926,Website,High,0,4,Physics,0
+927,Website,Medium,0,2,Physics,0
+928,Referral,Medium,0,3,Mathematics,0
+929,Referral,Medium,0,2,Mathematics,0
+930,Website,High,1,3,Biology,0
+931,Website,Medium,1,2,Data Science,0
+932,Social Media,Medium,1,2,Data Science,1
+933,Event,Medium,1,2,Data Science,1
+934,Referral,Medium,1,2,Data Science,0
+935,Website,Medium,0,0,Data Science,0
+936,Website,Low,1,4,Biology,1
+937,Website,High,0,4,Mathematics,1
+938,Event,Low,1,1,Mathematics,0
+939,Website,Medium,0,3,Biology,0
+940,Referral,High,1,0,Data Science,0
+941,Website,High,1,2,Data Science,0
+942,Referral,Medium,1,0,Mathematics,1
+943,Referral,Medium,1,3,Mathematics,0
+944,Social Media,Medium,0,2,Data Science,0
+945,Website,Medium,0,1,Mathematics,0
+946,Website,Medium,1,0,Mathematics,0
+947,Website,Medium,1,0,Mathematics,0
+948,Event,High,1,4,Mathematics,0
+949,Social Media,Medium,1,2,Data Science,0
+950,Referral,Medium,0,2,Data Science,0
+951,Referral,High,0,3,Mathematics,0
+952,Referral,High,1,4,Data Science,0
+953,Website,Medium,0,3,Biology,0
+954,Event,Medium,1,0,Mathematics,1
+955,Website,Low,0,0,Data Science,0
+956,Website,Low,1,2,Physics,0
+957,Referral,Medium,0,2,Mathematics,0
+958,Website,Medium,0,2,Data Science,0
+959,Website,Medium,1,3,Physics,0
+960,Social Media,Medium,0,0,Physics,0
+961,Website,High,1,0,Mathematics,0
+962,Referral,Medium,1,3,Data Science,0
+963,Website,Low,1,2,Mathematics,0
+964,Website,Medium,0,3,Physics,1
+965,Website,Medium,0,1,Data Science,0
+966,Website,Medium,0,3,Data Science,0
+967,Social Media,High,0,3,Physics,0
+968,Website,Medium,1,1,Data Science,0
+969,Referral,Medium,0,3,Physics,0
+970,Website,High,1,4,Mathematics,1
+971,Referral,High,1,2,Mathematics,0
+972,Event,Low,1,1,Data Science,1
+973,Social Media,High,0,4,Physics,0
+974,Website,Medium,0,1,Data Science,0
+975,Website,High,1,1,Mathematics,0
+976,Website,Low,1,3,Mathematics,0
+977,Referral,High,0,1,Physics,0
+978,Website,Medium,1,4,Biology,1
+979,Website,Low,0,3,Mathematics,0
+980,Referral,Low,0,0,Data Science,0
+981,Website,High,1,2,Biology,1
+982,Social Media,Low,1,3,Mathematics,0
+983,Website,Medium,0,2,Data Science,0
+984,Website,Medium,0,1,Data Science,1
+985,Social Media,High,1,4,Physics,0
+986,Website,High,0,1,Data Science,1
+987,Referral,Medium,1,1,Mathematics,0
+988,Website,Medium,1,0,Mathematics,0
+989,Website,Medium,0,3,Data Science,0
+990,Social Media,Medium,0,0,Mathematics,0
+991,Social Media,Medium,1,2,Data Science,0
+992,Referral,High,0,1,Mathematics,0
+993,Website,Medium,1,1,Mathematics,0
+994,Referral,High,1,2,Mathematics,0
+995,Website,Medium,1,4,Physics,0
+996,Website,Medium,0,4,Physics,0
+997,Event,Low,1,3,Physics,0
+998,Website,High,1,4,Data Science,0
+999,Event,High,1,1,Data Science,0
+1000,Website,High,0,2,Mathematics,0

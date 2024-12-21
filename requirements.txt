@@ -1,0 +1,4 @@
+numpy==<version>
+pandas==<version>
+scikit-learn==<version>
+joblib==<version>
