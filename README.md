@@ -63,4 +63,7 @@ To run this project, you need the following Python libraries:
 - `joblib`
 ## Output
 
-![Output Image 1](https://github.com/minalmmm/Tutor-Effectiveness-Analysis/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/.-Enrollment-Conversion-Rate-Optimization/blob/main/images/img1.png)
+![Output Image 2](https://github.com/minalmmm/.-Enrollment-Conversion-Rate-Optimization/blob/main/images/img2.png)
+
+
